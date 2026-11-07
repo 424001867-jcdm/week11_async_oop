@@ -1,0 +1,14 @@
+=============================================
+ PC16 Week 11: Asynchronous OOP Program Test 
+=============================================
+
+Processor [CPU]: AMD Ryzen 5 5600 | Cores: 6 | Clock: 3.7GHz | Price: PHP 6500.00
+
+--- Testing Asynchronous Non-Blocking Flow ---
+ -> [Async Routine Started]: Connecting to inventory cloud database for AMD Ryzen 5 5600...
+ [Main Thread]: Continuing local system UI rendering and task logging while sync happens in background...
+ -> [Async Routine Complete]: Successfully synced AMD Ryzen 5 5600 to central server inventory!
+
+=============================================
+         Asynchronous Execution Complete     
+=============================================
